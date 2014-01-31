@@ -1,6 +1,6 @@
 {
   "name": "grunt-to-single-quotes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replaces double ( escaped or otherwise ) quotes with single quotes.",
   "homepage": "",
   "repository": {
